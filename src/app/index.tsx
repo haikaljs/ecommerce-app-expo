@@ -3,7 +3,7 @@ import { Text, View, StyleSheet } from "react-native";
 export default function Index() {
   return (
     <View style={styles.container}>
-      <Text>Ecommerce app</Text>
+      <Text className="text-green-500">Ecommerce app</Text>
     </View>
   );
 }
